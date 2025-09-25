@@ -102,16 +102,7 @@ public class Player
                 List<List<Move>> movelistsToAdd = new List<List<Move>>();
                 foreach (var list in ListOfMoves)
                 {
-                    List<Piece> piecesToMove = MovablePieces;
                     int unlocks = list.Count(x => x.UnlockPiece);
-                    if (unlocks > 0)
-                    {
-                        piecesToMove = new List<Piece>();
-                        for (int i = 0; i < unlocks; i++)
-                        {
-                            piecesToMove.Add(Pieces[i]);
-                        }
-                    }
                     List<Piece> pieces = new  List<Piece>();
                     foreach (var piece in MovablePieces)
                     {
