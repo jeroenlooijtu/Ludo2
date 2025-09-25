@@ -1,0 +1,14 @@
+C:\Users\jeroe\RiderProjects\LudoSim\LudoSim\bin\Debug\net9.0\LudoSim.exe
+C:\Users\jeroe\RiderProjects\LudoSim\LudoSim\bin\Debug\net9.0\LudoSim.deps.json
+C:\Users\jeroe\RiderProjects\LudoSim\LudoSim\bin\Debug\net9.0\LudoSim.runtimeconfig.json
+C:\Users\jeroe\RiderProjects\LudoSim\LudoSim\bin\Debug\net9.0\LudoSim.dll
+C:\Users\jeroe\RiderProjects\LudoSim\LudoSim\bin\Debug\net9.0\LudoSim.pdb
+C:\Users\jeroe\RiderProjects\LudoSim\LudoSim\obj\Debug\net9.0\LudoSim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeroe\RiderProjects\LudoSim\LudoSim\obj\Debug\net9.0\LudoSim.AssemblyInfoInputs.cache
+C:\Users\jeroe\RiderProjects\LudoSim\LudoSim\obj\Debug\net9.0\LudoSim.AssemblyInfo.cs
+C:\Users\jeroe\RiderProjects\LudoSim\LudoSim\obj\Debug\net9.0\LudoSim.csproj.CoreCompileInputs.cache
+C:\Users\jeroe\RiderProjects\LudoSim\LudoSim\obj\Debug\net9.0\LudoSim.dll
+C:\Users\jeroe\RiderProjects\LudoSim\LudoSim\obj\Debug\net9.0\refint\LudoSim.dll
+C:\Users\jeroe\RiderProjects\LudoSim\LudoSim\obj\Debug\net9.0\LudoSim.pdb
+C:\Users\jeroe\RiderProjects\LudoSim\LudoSim\obj\Debug\net9.0\LudoSim.genruntimeconfig.cache
+C:\Users\jeroe\RiderProjects\LudoSim\LudoSim\obj\Debug\net9.0\ref\LudoSim.dll
